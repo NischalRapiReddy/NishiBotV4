@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-<strong>Doge Bot V3</strong>
+<strong>Nishi Bot V4</strong>
 </p>
 
 </div>
