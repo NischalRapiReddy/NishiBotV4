@@ -42,7 +42,7 @@ console.log(color('  NishiBot inc. 2022','mediumseagreen'))
     console.log(color('[Nishi Bot]'), color('Nishi Bot Is Online', 'aqua'))
     console.log(color('[DEV]', 'cyan'), color('Welcome Back Owner! Hope You Doing Well~', 'magenta'))
     console.log(color('<>','red'), color('Thanks For Using Nishi Bot', 'white'))
-	DogeXeonOP.browserDescription = [ 'Subscribe Xeon', 'chrome', '3.0' ]
+	DogeXeonOP.browserDescription = [ 'Subscribe Nischal', 'chrome', '3.0' ]
     DogeXeonOP.on('qr', () => {
         console.log(color('[','white'), color('!','red'), color(']','white'), color(' Scan the qr code in only 20 seconds !!'))
     })
