@@ -81,7 +81,7 @@ const thumb = fs.readFileSync ('./media/dogetb.jpg')
 //══════════[ Developer Number ]══════════//
 
 developerNo = '918919822103'
-developerName= 'Nischal Rapireddy'
+developerName= 'Nischal'
 
 //══════════[ Apikeys ]══════════//
 //----credit goes to all the respected owner---//
@@ -628,22 +628,22 @@ sections: [
 "title": `${tanggal} - ${time}`,
 rows: [
 {
-"title": "GROUP MENU",
-"description": `Display A List Of Group Features`,
+"title": "👪GROUP MENU",
+"description": `Bot Recoded By Nischal`,
 "rowId": `${prefix}grupmenu`
 },
 {
-"title": "DOWNLOAD MENU",
+"title": "🔽DOWNLOAD MENU",
 "description": `Display A List Of Features To Download`,
 "rowId": `${prefix}downloadmenu`
 },
 {
-"title": "MAKER MENU",
+"title": "👾MAKER MENU",
 "description": `Display A List Of Features To Create Logo`,
 "rowId": `${prefix}makermenu`
 },
 {
-"title": "GAME MENU",
+"title": "🎮GAME MENU",
 "description": `Display A List Of Game Features`,
 "rowId": `${prefix}gamemenu`
 },
@@ -687,11 +687,11 @@ rows: [
 "description": `Display A List Of Fun Features`,
 "rowId": `${prefix}funmenu`
 },
-{
-"title": "SOUND MENU",
-"description": `Display A List Of Sounds`,
-"rowId": `${prefix}soundmenu`
-},
+// {
+// "title": "SOUND MENU",
+// "description": `Display A List Of Sounds`,
+// "rowId": `${prefix}soundmenu`
+// },
 {
 "title": "OCR MENU",
 "description": `Display A List Of Ocr Features`,
@@ -1421,7 +1421,7 @@ break
 case 'ownermenu':
 
 menu =
-`*「 OWNER MENU 」*
+`*「 Nishi MENU 」*
 
 ${gaya2} ${prefix}spam _text|amount_
 ${gaya2} ${prefix}tospam _reply with amount_
@@ -2869,7 +2869,7 @@ case 'sc':
 case 'script':
 case 'sourcode':
 
-// scpic = fs.readFileSync('./media/scpic.jpg')
+scpic = fs.readFileSync('./media/scpic.jpg')
 scsell = `*👀𝐍𝐢𝐬𝐡𝐢 𝐁𝐨𝐭 𝓥4👀*\n\n_• 𝒀𝒐𝒖𝑻𝒖𝒃𝒆: https://www.youtube.com/watch?v=dQw4w9WgXcQ_\n_• 𝑮𝒊𝒕𝑯𝒖𝒃: Soon_\n\n_𝐈𝐟 𝐮𝐫 𝐚 𝐠𝐚𝐥𝐥 𝐢 𝐠𝐨𝐭 𝐬𝐨𝐦𝐞𝐭𝐡𝐢𝐧 𝐟𝐨𝐫 𝐮𝐡 𝐃𝐌 𝐌𝐲 𝐌𝐚𝐬𝐭𝐞𝐫._`
 but = [
 // { buttonId: `${prefix}rentbot`, buttonText: { displayText: 'BUY SCRIPT 💵' }, type: 1 },
