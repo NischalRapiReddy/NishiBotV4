@@ -2869,7 +2869,7 @@ case 'sc':
 case 'script':
 case 'sourcode':
 
-scpic = fs.readFileSync('./media/scpic.jpg')
+scpic = fs.readFileSync('/media/scpic.jpg')
 scsell = `*👀𝐍𝐢𝐬𝐡𝐢 𝐁𝐨𝐭 𝓥4👀*\n\n_• 𝒀𝒐𝒖𝑻𝒖𝒃𝒆: https://www.youtube.com/watch?v=dQw4w9WgXcQ_\n_• 𝑮𝒊𝒕𝑯𝒖𝒃: Soon_\n\n_𝐈𝐟 𝐮𝐫 𝐚 𝐠𝐚𝐥𝐥 𝐢 𝐠𝐨𝐭 𝐬𝐨𝐦𝐞𝐭𝐡𝐢𝐧 𝐟𝐨𝐫 𝐮𝐡 𝐃𝐌 𝐌𝐲 𝐌𝐚𝐬𝐭𝐞𝐫._`
 but = [
 // { buttonId: `${prefix}rentbot`, buttonText: { displayText: 'BUY SCRIPT 💵' }, type: 1 },
